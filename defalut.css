@@ -1,0 +1,163 @@
+*{margin: 0;padding:0;}
+body{
+  display: flex;
+  height: 100vh;
+	flex-direction: column;
+	overflow: hidden;
+}
+.code-wrapper{
+  padding: 16px;
+	height: 30%;
+	display: flex;
+	justify-content: center;
+}
+#code{
+  height: 100%;
+  overflow: hidden;
+}
+.preview-wrapper{
+	height: 70%;
+	
+}
+.wrapper{
+  width: 100%;
+	position: relative;
+}
+
+
+
+
+/*----- ----- ----- OJOS ----- ----- -----*/
+.ojos {
+	position: absolute;
+	left:40px;
+	top:40px;
+	width:210px;
+	z-index:10;
+}	
+
+.pestanas {
+	position:relative;
+	bottom:25px;
+	left:12px;
+}
+/*----- ----- ----- NARIZ ----- ----- -----*/
+
+
+/*----- ----- ----- BOCA ----- ----- -----*/
+
+
+
+
+
+.mejilla.primera {
+	left:-15px;
+}
+
+.mejilla.segunda {
+	left:175px;
+}
+/*----- ----- ----- CAMISA ----- ----- -----*/
+
+
+
+
+.corbata {
+}
+
+
+
+/*----- ----- ----- PANTALONES ----- ----- -----*/
+
+
+
+
+.cinturon.primero {
+	left:20px;
+}
+
+.cinturon.segundo {
+	left:90px;
+}
+
+.cinturon.tercero {
+	right:80px;
+}
+
+.cinturon.cuarto {
+	right:20px;
+}
+
+/*----- ----- ----- POROS ----- ----- -----*/
+
+
+.poro.primero {
+	top:230px;
+	left:20px;
+	height:50px;
+	width:50px;
+}
+
+.poro.segundo {
+	top:200px;
+	left:280px;
+}
+
+.poro.tercero {
+	top:50px;
+	left:260px;
+	height:15px;
+	width:15px;
+}
+
+.poro.cuarto {
+	top:300px;
+	height:30px;
+	width:30px;
+	left:50px;
+}
+
+.poro.quinto {
+	top:250px;
+	left:200px;
+}
+
+.poro.sexto {
+	top:;
+	left:;
+}
+
+.poro.septimo {
+	top:;
+	left:;
+}
+
+.poro.octavo {
+	top:;
+	left:;
+}
+
+.copy {
+	text-align:center;
+}
+
+.actions{
+  position: absolute;
+  right: 0;
+  top:0;
+  display: flex;
+  flex-direction: column;
+}
+.actions>button{
+  margin:10px;
+  padding:8px 10px;
+  border: none;
+  transition: .6s;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9)
+}
+.actions>button.active{
+  box-shadow: none;
+}
+.actions>button:focus{
+  outline: none;
+}
