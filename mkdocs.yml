@@ -1,1 +1,16 @@
 site_name: My Docs
+theme:
+  name: 
+plugins:
+  - social:
+      enabled: !ENV [CI, false]
+      log: true
+      log_level: warn
+      cards: true
+      cards_layout_dir: layouts
+      cards_layout_options:
+        background_color: "#ff1493" 
+        background_image: layouts/background.png
+        logo: layouts/logo.png
+        title: My custom title
+        description: My custom description
