@@ -46,8 +46,7 @@ theme:
       accent: orange
       toggle:
         # 图标
-        icon: assets/SpongeBob.png
-        # icon: materaial/weather-night
+        icon: material/weather-night
         # 鼠标悬浮提示
         name: 切换至夜间模式
     # 夜间模式
@@ -83,10 +82,12 @@ theme:
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
     - content.action.edit
   language: zh # 一些提示性的文字会变成中文
-  icon:
+  #icon:
     # [添加 GitHub 仓库]
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#repository-icon
-    repo: fontawesome/brands/github
+    #repo: fontawesome/brands/github
+  logo: images/SpongeBob3.jpg
+
 
 # [Extensions]
 plugins:
