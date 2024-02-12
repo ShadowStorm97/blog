@@ -46,7 +46,8 @@ theme:
       accent: orange
       toggle:
         # 图标
-        icon: material/weather-night
+        icon: assets/SpongeBob.png
+        # icon: materaial/weather-night
         # 鼠标悬浮提示
         name: 切换至夜间模式
     # 夜间模式
