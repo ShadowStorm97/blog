@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# 你好
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+这里是高羽的个人博客，使用github pages + mkdocs生成。
 
-## Commands
+- 通过主题和目录以打开文章
+    - PC端 在上方标签栏选择主题 在左侧目录选择文章
+    - 移动端 点击左上角图标选择主题和文章
+- 搜索关键词以打开文章
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## 个人现状
 
-## Project layout
+- (2020.7 - 至今) 奇安信集团，大型研建项目北京负责人
+    - 工作年限: 10年
+    - 当前方向: 网络安全
+    - 过往经历: 互联网金融,K12在线教育 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 个人信息
+
+更多个人信息戳这里 [个人信息](./ME/introduction.md)
+
