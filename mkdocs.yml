@@ -35,6 +35,7 @@ nav:
 # [top]
 theme:
   name: material
+  custom_dir: overrides
   # [切换日间模式和夜间模式]
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle
   palette:

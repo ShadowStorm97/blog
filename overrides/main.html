@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block header %}
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HY7LV0L201"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'G-HY7LV0L201');
+        </script>
+  {{ super() }}
+
+{% endblock %}
