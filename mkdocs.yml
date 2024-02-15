@@ -16,6 +16,8 @@ nav:
             - 海量数据面试套路: BLOG/BIG-PLAN/INTERVIEW/bigdata.md
           - 算法学习:
             - 排序算法看这篇就够了: BLOG/BIG-PLAN/CS/ALGORITHM/SORT/learn-sort.md
+          - 基础:
+            - 搞懂二进制: BLOG/BIG-PLAN/CS/learn-binary.md
         - 二次元: BLOG/BIG-PLAN/CS/index.md
         - 游戏: BLOG/BIG-PLAN/CS/index.md
         - 电影: BLOG/BIG-PLAN/CS/index.md
