@@ -12,10 +12,13 @@ nav:
       - 李耘汐: 
         - 李耘汐: BLOG/BIG-PLAN/index.md
         - CS:
-          - INTERVIEW: 
+          - 面试: 
             - 海量数据面试套路: BLOG/BIG-PLAN/INTERVIEW/bigdata.md
           - 算法学习:
+            - 始于学习开始之前: BLOG/BIG-PLAN/CS/ALGORITHM/learn-alg.md
             - 排序算法看这篇就够了: BLOG/BIG-PLAN/CS/ALGORITHM/SORT/learn-sort.md
+            - 刷题之路:
+              - 反转链表: BLOG/BIG-PLAN/CS/ALGORITHM/LINK/reserve-link.md
           - 基础:
             - 搞懂二进制: BLOG/BIG-PLAN/CS/learn-binary.md
         - 二次元: BLOG/BIG-PLAN/CS/index.md
