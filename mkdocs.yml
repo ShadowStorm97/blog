@@ -21,6 +21,8 @@ nav:
               - 反转链表: BLOG/BIG-PLAN/CS/ALGORITHM/LINK/reserve-link.md
           - 基础:
             - 搞懂二进制: BLOG/BIG-PLAN/CS/learn-binary.md
+          - 互联网圈:
+            - 互联网黑话: REPRODUCE/internet-slang.md
         - 二次元: BLOG/BIG-PLAN/CS/index.md
         - 游戏: BLOG/BIG-PLAN/CS/index.md
         - 电影: BLOG/BIG-PLAN/CS/index.md
