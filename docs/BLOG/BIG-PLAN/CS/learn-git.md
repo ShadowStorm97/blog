@@ -1,7 +1,7 @@
 # git 从入门到精通
 
 ## git 前世今生 @liyunxi
-
+good good study,day day up
 ## git 安装&配置 @liyunxi
 
 ## git 常用命令
