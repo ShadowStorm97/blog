@@ -4,6 +4,11 @@ site_name: 高羽的个人网站
 site_url: https://blog.gaoyu.uk
 site_author: 高羽
 site_description: 高羽的个人网站
+
+# Example of including CNAME in mkdocs.yml
+extra_files:
+  - CNAME
+
 # [Navigtion]
 nav:
   - 博客:
