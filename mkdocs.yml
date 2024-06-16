@@ -9,24 +9,21 @@ nav:
   - 博客:
     - BLOG/index.md
     - 补全世界计划:
-      - 李耘汐: 
-        - 李耘汐: BLOG/BIG-PLAN/index.md
-        - CS:
-          - 面试: 
-            - 海量数据面试套路: BLOG/BIG-PLAN/INTERVIEW/bigdata.md
-          - 算法学习:
-            - 始于学习开始之前: BLOG/BIG-PLAN/CS/ALGORITHM/learn-alg.md
-            - 排序算法看这篇就够了: BLOG/BIG-PLAN/CS/ALGORITHM/SORT/learn-sort.md
-            - 刷题之路:
-              - 反转链表: BLOG/BIG-PLAN/CS/ALGORITHM/LINK/reserve-link.md
-          - 基础:
-            - 搞懂二进制: BLOG/BIG-PLAN/CS/learn-binary.md
-            - 搞懂git: BLOG/BIG-PLAN/CS/learn-git.md
-          - 互联网圈:
-            - 互联网黑话: REPRODUCE/internet-slang.md
-        - 二次元: BLOG/BIG-PLAN/CS/index.md
-        - 游戏: BLOG/BIG-PLAN/CS/index.md
-        - 电影: BLOG/BIG-PLAN/CS/index.md
+      - BLOG/BIG-PLAN/index.md
+      - CS:
+        - 面试: 
+          - 海量数据面试套路: BLOG/BIG-PLAN/INTERVIEW/bigdata.md
+        - 算法学习:
+          - 始于学习开始之前: BLOG/BIG-PLAN/CS/ALGORITHM/learn-alg.md
+          - 排序算法看这篇就够了: BLOG/BIG-PLAN/CS/ALGORITHM/SORT/learn-sort.md
+          - 刷题之路:
+            - 反转链表: BLOG/BIG-PLAN/CS/ALGORITHM/LINK/reserve-link.md
+        - 基础:
+          - 搞懂二进制: BLOG/BIG-PLAN/CS/learn-binary.md
+        - 互联网圈:
+          - 互联网黑话: REPRODUCE/internet-slang.md
+      - 二次元: BLOG/BIG-PLAN/CS/index.md
+      - 游戏: BLOG/BIG-PLAN/CS/index.md
     - 没有用的知识又增加了:
       - IOS录音M4A音频格式转MP3格式: BLOG/USELESS-KNOWLEDGE/MAC-NATIVE-APPS/IOS-M4A-2-MP3.md
   - 讲稿:
