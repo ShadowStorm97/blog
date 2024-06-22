@@ -35,6 +35,64 @@ nav:
     - LECTURE/index.md
   - 开发:
     - DEVELOP/index.md
+    - 知识积累: 
+      - RESEARCH/index.md
+      - 基础: 
+        - RESEARCH/index.md
+        - 操作系统: BLOG/BIG-PLAN/CS/OS/index.md
+        - 网络: BLOG/BIG-PLAN/CS/NETWORK/index.md
+      - 语言:
+        - RESEARCH/index.md
+        - Golang: BLOG/BIG-PLAN/LANGUAGE/GO/index.md
+        - Java: BLOG/BIG-PLAN/LANGUAGE/JAVA/index.md
+      - 中间件:
+        - RESEARCH/index.md
+        - 存储: 
+          - RESEARCH/index.md
+          - CLICKHOUSE: BLOG/BIG-PLAN/MIDDLE-WARE/STORAGE/CLICKHOUSE/index.md
+          - ELASTICSEARCH: BLOG/BIG-PLAN/MIDDLE-WARE/STORAGE/ELASTICSEARCH/index.md
+          - MYSQL: BLOG/BIG-PLAN/MIDDLE-WARE/STORAGE/MYSQL/index.md
+          - PG: BLOG/BIG-PLAN/MIDDLE-WARE/STORAGE/PG/index.md
+        - MQ:
+          - RESEARCH/index.md
+          - KAFKA: BLOG/BIG-PLAN/MIDDLE-WARE/MQ/KAFKA/index.md
+        - 分布式协调:
+          - RESEARCH/index.md
+          - ETCD: BLOG/BIG-PLAN/MIDDLE-WARE/DISTRIBUTED-COORDINATION/ETCD/index.md
+          - ZOOKEEPER: BLOG/BIG-PLAN/MIDDLE-WARE/DISTRIBUTED-COORDINATION/ZOOKEEPER/index.md
+        - 云原生:
+          - RESEARCH/index.md
+          - DOCKER: BLOG/BIG-PLAN/MIDDLE-WARE/CLOULD-NATIVE/DOCKER/index.md
+          - K8S: BLOG/BIG-PLAN/MIDDLE-WARE/CLOULD-NATIVE/K8S/index.md
+      - 工程:
+        - 分布式:
+          - RESEARCH/index.md
+          - 分布式原理: BLOG/BIG-PLAN/DISTRIBUTED/distributed.md
+        - 架构:
+          - RESEARCH/index.md
+          - 微服务架构: BLOG/BIG-PLAN/ARCHITECTURE/MICRO-SERVICE/index.md
+        - 数据工程:
+          - RESEARCH/index.md
+          - 数据工程: BLOG/BIG-PLAN/DATA-ENGINEERING/index.md
+        - 系统设计:
+          - RESEARCH/index.md
+          - 系统设计: BLOG/BIG-PLAN/SYSTEM-DESIGN/index.md
+        - 高并发: 
+          - RESEARCH/index.md
+          - 高并发: BLOG/BIG-PLAN/SYSTEM-DESIGN/HIGH-CONCURRENCY/index.md
+      - 后端面经:
+        - 后端面经: BLOG/BIG-PLAN/INTERVIEW/rd.md
+    - 项目积累:
+      - 大模型文档平台
+      - dayu平台
+        - 日志检索
+        - 威胁分析
+      - 数字货币交易所
+        - 撮合引擎
+      - 差价合约交易平台
+        - 行情推送系统
+        - 跟单系统
+
   - 研究:
     - RESEARCH/index.md
   - 二次元:
