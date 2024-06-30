@@ -14,4 +14,4 @@
 
 ## 阅读资料
 
-(MYSQL实战)[https://time.geekbang.org/column/article/69236]
+[MYSQL实战](https://time.geekbang.org/column/article/69236)

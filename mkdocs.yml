@@ -44,7 +44,15 @@ nav:
       - 语言:
         - RESEARCH/index.md
         - Golang: BLOG/BIG-PLAN/LANGUAGE/GO/index.md
-        - Java: BLOG/BIG-PLAN/LANGUAGE/JAVA/index.md
+        - Java: 
+          - BLOG/BIG-PLAN/LANGUAGE/JAVA/index.md
+          - GC: BLOG/BIG-PLAN/LANGUAGE/JAVA/gc.md
+          - JUC: BLOG/BIG-PLAN/LANGUAGE/JAVA/juc.md
+          - Memory: BLOG/BIG-PLAN/LANGUAGE/JAVA/memory.md
+        - Spirng:   
+            - BLOG/BIG-PLAN/LANGUAGE/JAVA/spring/spring.md
+            - Spring-Boot: BLOG/BIG-PLAN/LANGUAGE/JAVA/spring/spring-boot.md
+
       - 中间件:
         - RESEARCH/index.md
         - 存储: 
